@@ -25,7 +25,7 @@ FashionBlend is an augmented reality (AR) mobile app that lets users virtually t
 
 ## Installation
 
-1. Clone the repo: `git clone https://github.com/vinu0404/FashionBlend.git`
+1. Clone the repo: `git clone https://github.com/vinu0404/AR-FashionBlend.git`
 2. Set up the server: `pip install -r requirements.txt`
 3. Build the Android app in Unity.
 4. Run the server: `python server.py`
